@@ -46,4 +46,4 @@ For more information, read [this Microsoft Azure article](https://docs.microsoft
     
 ### SCIM Provisioning
   
-Azure has an autoprovisioning integration with Mixpanel that lets you automatically add users to Mixpanel upon giving them access in Azure, and likewise removing access within Mixpanel when you remove access in Azure. You can find more information [here](https://learn.microsoft.com/en-us/azure/active-directory/saas-apps/mixpanel-provisioning-tutorial). Note that it is advised you turn on IDP Managed Access if you are using SCIM Provisioning.
+Azure has an autoprovisioning integration with Mixpanel that lets you automatically add users to Mixpanel upon giving them access in Azure, and likewise removing access within Mixpanel when you remove access in Azure. You can find more information [here](https://learn.microsoft.com/en-us/azure/active-directory/saas-apps/mixpanel-provisioning-tutorial). **Note that it is advised you turn on IDP Managed Access if you are using SCIM Provisioning.**
