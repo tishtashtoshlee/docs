@@ -135,7 +135,7 @@ We record failed syncs in our UI and display the error message returned in the r
 **Do we get notified when the sync is paused?**
 Yes, an email is sent to all users who have set up cohort syncs when the syncs pause due to an error.
 
-** Do page_count in the requests start from 0 or 1?**
+**Do page_count in the requests start from 0 or 1?**
 The page_count starts from 1.
 
 **Do you retry on webhook call failures?**
