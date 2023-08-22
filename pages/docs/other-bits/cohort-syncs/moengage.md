@@ -78,7 +78,7 @@ Once the export completes, you will see a custom segment reflecting the set of u
 ## MoEngage Events into Mixpanel & MTU exemptions
 You can use events from your MoEngage integration to perform deeper analysis in Mixpanel. 
 
-Events coming from MoEngage are marked with the property `$partner_id`.
+Events coming from [MoEngage](https://partners.moengage.com/hc/en-us/articles/4410027746836-Mixpanel#01FV1SH74WTY3WKJH7Z6TV85Y3) are marked with the property `$partner_id`.
 
 Mixpanel will exempt certain messaging outreach events from MTU calculations, meaning you're free to send campaigns to dormant users without them counting towards MTU billing (only once a user engages with a message will they then be counted towards that tally).
 
